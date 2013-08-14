@@ -1,7 +1,7 @@
 {
   "name": "grunt-groc",
   "description": "Generate documentation using groc",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "homepage": "https://github.com/jdcataldo/grunt-groc",
   "author": {
     "name": "Justin Cataldo",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jdcataldo/grunt-groc.git"
+    "url": "git://github.com/matthewgonzalez/grunt-groc.git"
   },
   "bugs": {
     "url": "https://github.com/jdcataldo/grunt-groc/issues"
